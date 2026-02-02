@@ -1,0 +1,8 @@
+baseURL = "https://galliard.github.io/"
+
+languageCode = "en-us"
+
+title = "My Blog"
+
+theme = "ananke"
+
